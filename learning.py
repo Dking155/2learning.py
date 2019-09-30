@@ -1,4 +1,5 @@
-print("hello world")
+# this is an octhorpe--it makes a comment (line ignored by the computer)
+# print("hello world")
 print("howdy y'all")
 print("I like typing this.")
 print("This is fun.")
