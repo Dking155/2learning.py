@@ -15,4 +15,4 @@ print("Roosters: ", 100-25*3 % 4)
 print("Now I will count the eggs", 7)
 print(3 + 2 + 1 - 5 + 4 % 2 - 1 / 4 + 6)
 print(25 * 4 / 5)
-#floating points are numbers that contain floating decimal points.
+#Floating points are numbers that contain floating decimal points.
