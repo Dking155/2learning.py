@@ -16,3 +16,4 @@ print("Now I will count the eggs", 7)
 print(3 + 2 + 1 - 5 + 4 % 2 - 1 / 4 + 6)
 print(25 * 4 / 5)
 #Floating points are numbers that contain floating decimal points.
+print(25.00 * 4.00 / 5.00)
