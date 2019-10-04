@@ -47,5 +47,6 @@ print("lets talk about %s." % myname)
 print("hes's %d inches tall." % myheight)
 print("he's got %s eyes and %s hair."% (myeyes, myhair))
 print("if i add %d and %d,i get %d."%(myage, myheight, myage+myheight))
+print("he's a %s." % mygender)
 
 
