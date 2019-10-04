@@ -33,4 +33,19 @@ print("There are",cars,"cars available.")
 print("There are only",drivers,"drivers available today.")
 print("There will be",cars_not_driven,"empty cars today.")
 print("we can transport",carpool_capacity,"people today.")
-print("we have",passengers")
+print("we have",passengers)
+
+# More variables and playing with output
+myname="patrick"
+myage=15
+myheight=67 # inches
+myeyes='black'
+myhair='black'
+mygender="male"
+
+print("lets talk about %s." % myname)
+print("hes's %d inches tall." % myheight)
+print("he's got %s eyes and %s hair."% (myeyes, myhair))
+print("if i add %d and %d,i get %d."%(myage, myheight, myage+myheight))
+
+
